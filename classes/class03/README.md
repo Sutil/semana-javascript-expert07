@@ -31,7 +31,7 @@ Marque esse projeto com uma estrela 🌟
 
 - Tarefa
   - [] - Identificar piscada com cada olho
-  - [] - Ajustar z-index
+  - [X] - Ajustar z-index
 
 ### Desafios
 - [] - Aula 01 - Diferenciar piscada de olhos entre olho direito e esquerdo e atualizar log para mostrar qual olho que piscou.
