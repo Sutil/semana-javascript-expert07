@@ -32,12 +32,12 @@ const knownGetures = [
   ScrollUpGesture
 ]
 
-const getureStrings = {
+const gestureStrings = {
   'scroll-up': '🖐',
   'scroll-down': '✊️'
 }
 
 export {
     knownGetures,
-    getureStrings
+    gestureStrings
 }

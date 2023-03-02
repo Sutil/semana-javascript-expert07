@@ -1,4 +1,4 @@
-import { knownGetures, getureStrings } from "../utils/gestures.js"
+import { knownGetures, gestureStrings } from "../utils/gestures.js"
 
 
 export default class HandGestureService {
@@ -42,7 +42,7 @@ export default class HandGestureService {
 
       yield { event: result.name, x, y}
 
-      console.log('detected', getureStrings[result.name], x, y)
+      console.log('detected', gestureStrings[result.name], x, y)
     }
   }
 
