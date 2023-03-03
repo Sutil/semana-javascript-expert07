@@ -5,12 +5,12 @@
 [click here to see demo](https://sutil.github.io/semana-javascript-expert07/classes/class04)
 
 Don't forget to allow camera.
-<img width=100% src="./readme-assets/allow-cam.png">
+<img width=100% src="https://github.com/Sutil/semana-javascript-expert07/blob/main/readme-assets/allow-cam.png?raw=true">
 
 The project was done in the 'Javascript Expert Wick' fom [Erick Wendel](https://github.com/ErickWendel). 
 
 ## Preview
-<img width=100% src="./readme-assets/preview.gif">
+<img width=100% src="https://github.com/Sutil/semana-javascript-expert07/blob/main/readme-assets/preview.gif?raw=true">
 
 ## Pre-reqs
 - Este projeto foi criado usando Node.js v19.6
