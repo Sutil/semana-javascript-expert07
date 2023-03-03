@@ -8,84 +8,47 @@ Don't forget to allow camera.
 
 <img width=100% src="https://github.com/Sutil/semana-javascript-expert07/blob/main/readme-assets/allow-cam.png?raw=true">
 
-The project was done in the 'Javascript Expert Wick' fom [Erick Wendel](https://github.com/ErickWendel). 
+The project was done in the 'Javascript Expert Wick' from [Erick Wendel](https://github.com/ErickWendel). 
 
 ## Preview
 <img width=100% src="https://github.com/Sutil/semana-javascript-expert07/blob/main/readme-assets/preview.gif?raw=true">
 
 ## Pre-reqs
-- Este projeto foi criado usando Node.js v19.6
-- O ideal é que você use o projeto em ambiente Unix (Linux). Se você estiver no Windows, é recomendado que use o [Windows Subsystem Linux](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) pois nas aulas são mostrados comandos Linux que possam não existir no Windows.
+- This project is using Node.js v19.6
 
 ## Running
-
-- Execute `npm ci` na pasta que contém o arquivo `package.json` para restaurar os pacotes
-- Execute `npm start` e em seguida vá para o seu navegador em [http://localhost:3000](http://localhost:3000) para visualizar a página acima
-
-## Checklist Features
-- Titles List
-  - [] - Campo para pesquisa não deve travar ao digitar termo de pesquisa
-  - [] - Deve desenhar mãos na tela e fazer com que elementos em segundo plano  continuem sendo clicáveis  🙌
-  - [] - Deve disparar scroll up quando usar a palma das mãos abertas 🖐
-  - [] - Deve disparar scroll down quando usar a palma das mãos fechadas ✊
-  - [] - Deve disparar click no elemento mais próximo quando usar  gesto de pinça 🤏🏻
-  - [] - Ao mover elementos na tela, deve disparar evento **:hover** em elementos em contexto
-
-- Video Player
-  - [] - Deve ser possivel de reproduzir ou pausar videos com o piscar de olhos 😁
-  - [] - Todo processamento de Machine Learning deve ser feito via Web worker
-
-### Desafios
-- [] - Aula 01 - Diferenciar piscada de olhos entre olho direito e esquerdo e atualizar log para mostrar qual olho que piscou.
-- [] - Aula 02 - Reconhecer gestos de mãos individuais e printar no log
-- [] - Aula 03 - A definir
-- [] - Aula 04 - A definir
-
-### Links mostrados nos aulas:
-- Reuni todos os links em [referências](./referencias.md)
-### Considerações
-- Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
-
-- Ao completar qualquer um dos desafios, envie no canal **#desafios** da comunidade no **Discord**
-### FAQ
-- browser-sync está lançando erros no Windows e nunca inicializa:
-  - Solução: Trocar o browser-sync pelo http-server.
-    1. instale o **http-server**  com `npm i -D http-server`
-    2. no package.json apague todo o comando do `browser-sync` e substitua por `npx http-server .`
-    3. agora o projeto vai estar executando na :8080 então vá no navegador e tente acessar o http://localhost:8080/
-  A unica coisa, é que o projeto não vai reiniciar quando voce alterar algum código, vai precisar dar um F5 na página toda vez que alterar algo
-
-### Créditos ao Layout
-- Interface baseada no projeto [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) de [gunnarhawk](https://github.com/Gunnarhawk)
+- Run `npm ci` on the folder that contains `package.json` to restore packages.
+- Run `npm start` and next open the browser in [http://localhost:3000](http://localhost:3000) to see the page.
 
 
-Aulas
+### Crédits to Layout
+- Interface based in the project [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) from [gunnarhawk](https://github.com/Gunnarhawk)
 
-✅  IMPORTANTE
-▸ Deixe um star no projeto 🔥 : https://bit.ly/semana-javascript-expert07‍
 
-✅  REFERENCIAS
-▸ Referências da imersão: https://bit.ly/semanajsexpert07-refs
+Classes
+
+✅  IMPORTANT
+▸ Give a star to the original project 🔥 : https://bit.ly/semana-javascript-expert07‍
 ‍
-▸ Template inicial em: https://bit.ly/semana-javascript-expert07
+▸ Initial template in: https://bit.ly/semana-javascript-expert07
 
-✅  DA AULA 1
-▸ Codigo do Calculo: https://bit.ly/blinkPrediction-file
+✅  Class 1
+▸ Calc code: https://bit.ly/blinkPrediction-file
 
-▸ Dependencias do arquivo worker.js:
+▸ worker.js file dependence:
 https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula01
 
 
-✅  DA AULA 2
-▸ Dependencias do arquivo worker.js:
+✅  Class 2
+▸ worker.js file dependence:
 https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md
 ‍
 
-✅  DA AULA 3
-▸ Codigo do Calculo: https://bit.ly/blinkPrediction-file
-‍▸ Dependencias do arquivo worker.js:
+✅  Class 3
+▸ Calc code: https://bit.ly/blinkPrediction-file
+‍▸ worker.js file dependence:
 https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula03
 
-✅  DA AULA 4
-▸ Referencias dessa aula: https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula04
+✅  Class 4
+▸ Class reference: https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula04
 
