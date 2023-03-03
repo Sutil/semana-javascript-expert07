@@ -1,11 +1,16 @@
 # JSExpertMax Gesture Controller - Semana JS Expert 7.0
 
-Seja bem vindo(a) à sétima Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
+# Demo
 
-Marque esse projeto com uma estrela 🌟
+[click here to see demo](https://sutil.github.io/semana-javascript-expert07/classes/class04)
+
+Don't forget to allow camera.
+<img width=100% src="./readme-assets/allow-cam.png">
+
+The project was done in the 'Javascript Expert Wick' fom [Erick Wendel](https://github.com/ErickWendel). 
 
 ## Preview
-<img width=100% src="./initial-template/assets/demo-template-lg.gif">
+<img width=100% src="./readme-assets/preview.gif">
 
 ## Pre-reqs
 - Este projeto foi criado usando Node.js v19.6
