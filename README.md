@@ -5,6 +5,7 @@
 [click here to see demo](https://sutil.github.io/semana-javascript-expert07/classes/class04)
 
 Don't forget to allow camera.
+
 <img width=100% src="https://github.com/Sutil/semana-javascript-expert07/blob/main/readme-assets/allow-cam.png?raw=true">
 
 The project was done in the 'Javascript Expert Wick' fom [Erick Wendel](https://github.com/ErickWendel). 
@@ -56,3 +57,35 @@ The project was done in the 'Javascript Expert Wick' fom [Erick Wendel](https://
 
 ### Créditos ao Layout
 - Interface baseada no projeto [Streaming Service](https://codepen.io/Gunnarhawk/pen/vYJEwoM) de [gunnarhawk](https://github.com/Gunnarhawk)
+
+
+Aulas
+
+✅  IMPORTANTE
+▸ Deixe um star no projeto 🔥 : https://bit.ly/semana-javascript-expert07‍
+
+✅  REFERENCIAS
+▸ Referências da imersão: https://bit.ly/semanajsexpert07-refs
+‍
+▸ Template inicial em: https://bit.ly/semana-javascript-expert07
+
+✅  DA AULA 1
+▸ Codigo do Calculo: https://bit.ly/blinkPrediction-file
+
+▸ Dependencias do arquivo worker.js:
+https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula01
+
+
+✅  DA AULA 2
+▸ Dependencias do arquivo worker.js:
+https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md
+‍
+
+✅  DA AULA 3
+▸ Codigo do Calculo: https://bit.ly/blinkPrediction-file
+‍▸ Dependencias do arquivo worker.js:
+https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula03
+
+✅  DA AULA 4
+▸ Referencias dessa aula: https://github.com/ErickWendel/semana-javascript-expert07/blob/main/referencias.md#aula04
+
