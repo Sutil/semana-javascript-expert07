@@ -8,7 +8,7 @@ Don't forget to allow camera.
 
 <img width=100% src="https://github.com/Sutil/semana-javascript-expert07/blob/main/readme-assets/allow-cam.png?raw=true">
 
-The project was done in the 'Javascript Expert Wick' from [Erick Wendel](https://github.com/ErickWendel). 
+The project was done in the 'Javascript Expert Week' from [Erick Wendel](https://github.com/ErickWendel). 
 
 ## Preview
 <img width=100% src="https://github.com/Sutil/semana-javascript-expert07/blob/main/readme-assets/preview.gif?raw=true">
